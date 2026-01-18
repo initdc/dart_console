@@ -1,0 +1,16 @@
+name: dart_console
+description: My command-line application.
+version: 0.0.1
+repository: https://github.com/initdc/dart_console
+
+environment:
+  sdk: ^3.10.7
+
+# Add regular dependencies here.
+dependencies:
+  path: ^1.9.0
+  my_dart_lib: ^0.0.1
+
+dev_dependencies:
+  lints: ^6.0.0
+  test: ^1.25.6
